@@ -4,5 +4,4 @@
 
 ```
 cat /etc/proc/
-
 ```
